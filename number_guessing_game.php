@@ -93,4 +93,3 @@ do {
 } while (askPlayAgain());
 
 echo "Thanks for playing!\n";
-echo "$secret\n";
